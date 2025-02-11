@@ -1,0 +1,10 @@
+Row Number,Order ID,Order Date,Delivery Date,Customer ID,Customer Name,City,Country,Postal Code,Country Code, Cost,Sales,Quantity,Discount,Delivery Cost,Course Name,Cuisine Name,Starter Name,Desert Name,Drink,Sides,,,
+1,54-366-6861,15/06/2020,26/03/2020,72-055-7985,Laney Fadden,Daruoyan,China,993-0031,CN,125,187,5,2,20,60,51,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine,Tapas,
+2,63-761-3686,25/08/2020,17/07/2020,65-353-0657,Giacopo Bramich,Ongjin,North Korea,216282,KP,235,352,5,1,15,96,75,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine,Potato salad,
+3,65-351-6434,17/08/2021,24/04/2020,90-876-6799,Lia Bonar,Quince Mil,Peru,663246,PE,75,112,5,3,10,52,36,37,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee,Bruschetta
+4,36-917-2834,14/08/2021,13/04/2020,73-873-4827,Merrill Baudon,Susaki,Japan,987-0352,JP,220,330,3,11,23,5,49,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine,Focaccia,
+5,86-114-9232,20/12/2020,02/02/2021,80-927-5246,Tasia Fautly,Tobruk,Libya,351 01,LY,320,480,2,51,5,63,64,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine,Meatballs,
+6,67-709-5581,01/03/2020,13/01/2020,77-111-2020,Angel Veschambre,Rafael Hernandez Ochoa,Mexico,93995,MX,210,315,1,89,84,5,4,Shwarma,Italian,Hummus,Baklava,Turkish Coffee,Fries,
+7,80-076-4032,04/10/2021,26/10/2019,10-341-4047,Sheilah Maestro,BelozÃ«rskoye,Russia,641360,RU,310,465,2,17,4,56,95,Greek salad,Italian,Olives,Greek yoghurt,Athens White wine,Tapas,
+8,56-271-4185,09/10/2021,27/12/2020,83-800-4789,Audie Willcocks,PÃ³voa do Valado,Portugal,3810-760,PT,225,337,5,3,91,41,91,5,Bean soup,Turkish,Flatbread,Ice cream,Corfu Red Wine,Potato salad
+9,43-052-9931,27/12/2021,16/04/2021,89-896-4591,Mart Malsher,Galâ€™bshtadt,Russia,692769,RU,190,285,2,9,71,86,28,Pizza,Greek,Minestrone,Cheesecake,Italian Coffee,Bruschetta,

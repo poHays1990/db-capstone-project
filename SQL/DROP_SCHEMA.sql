@@ -1,0 +1,1 @@
+DROP SCHEMA IF EXISTS capstone_module4;
